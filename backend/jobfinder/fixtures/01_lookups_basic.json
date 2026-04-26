@@ -1,0 +1,1677 @@
+[
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 2,
+    "fields": {
+      "code": "fpt",
+      "name": "FPT Software",
+      "website": "https://www.fpt-software.com",
+      "description": "Công ty phần mềm hàng đầu Việt Nam",
+      "is_active": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 3,
+    "fields": {
+      "code": "vng",
+      "name": "VNG Corporation",
+      "website": "https://www.vng.com.vn",
+      "description": "Công ty công nghệ, game và giải trí số",
+      "is_active": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 4,
+    "fields": {
+      "code": "vingroup",
+      "name": "Vingroup",
+      "website": "https://www.vingroup.net",
+      "description": "Tập đoàn kinh tế tư nhân đa ngành lớn nhất Việt Nam",
+      "is_active": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 5,
+    "fields": {
+      "code": "viettel",
+      "name": "Viettel Group",
+      "website": "https://www.viettel.com.vn",
+      "description": "Tập đoàn viễn thông quân đội",
+      "is_active": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 6,
+    "fields": {
+      "code": "vnpt",
+      "name": "VNPT",
+      "website": "https://www.vnpt.com.vn",
+      "description": "Tập đoàn Bưu chính Viễn thông Việt Nam",
+      "is_active": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 7,
+    "fields": {
+      "code": "momo",
+      "name": "MoMo",
+      "website": "https://www.momo.vn",
+      "description": "Ví điện tử và siêu ứng dụng tài chính",
+      "is_active": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 8,
+    "fields": {
+      "code": "zalopay",
+      "name": "ZaloPay",
+      "website": "https://zalopay.vn",
+      "description": "Ví điện tử của VNG",
+      "is_active": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 9,
+    "fields": {
+      "code": "tiki",
+      "name": "Tiki Corporation",
+      "website": "https://tiki.vn",
+      "description": "Sàn thương mại điện tử",
+      "is_active": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 10,
+    "fields": {
+      "code": "shopee_vn",
+      "name": "Shopee Vietnam",
+      "website": "https://shopee.vn",
+      "description": "Sàn thương mại điện tử",
+      "is_active": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 11,
+    "fields": {
+      "code": "lazada_vn",
+      "name": "Lazada Vietnam",
+      "website": "https://www.lazada.vn",
+      "description": "Sàn thương mại điện tử thuộc Alibaba",
+      "is_active": true,
+      "order": 10
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 12,
+    "fields": {
+      "code": "grab_vn",
+      "name": "Grab Vietnam",
+      "website": "https://www.grab.com/vn",
+      "description": "Siêu ứng dụng gọi xe và giao hàng",
+      "is_active": true,
+      "order": 11
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 13,
+    "fields": {
+      "code": "be_group",
+      "name": "Be Group",
+      "website": "https://be.com.vn",
+      "description": "Ứng dụng gọi xe Việt Nam",
+      "is_active": true,
+      "order": 12
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 14,
+    "fields": {
+      "code": "vcb",
+      "name": "Vietcombank",
+      "website": "https://www.vietcombank.com.vn",
+      "description": "Ngân hàng TMCP Ngoại thương Việt Nam",
+      "is_active": true,
+      "order": 13
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 15,
+    "fields": {
+      "code": "tcb",
+      "name": "Techcombank",
+      "website": "https://www.techcombank.com.vn",
+      "description": "Ngân hàng TMCP Kỹ thương Việt Nam",
+      "is_active": true,
+      "order": 14
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 16,
+    "fields": {
+      "code": "vpbank",
+      "name": "VPBank",
+      "website": "https://www.vpbank.com.vn",
+      "description": "Ngân hàng TMCP Việt Nam Thịnh Vượng",
+      "is_active": true,
+      "order": 15
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 17,
+    "fields": {
+      "code": "mbbank",
+      "name": "MB Bank",
+      "website": "https://www.mbbank.com.vn",
+      "description": "Ngân hàng TMCP Quân đội",
+      "is_active": true,
+      "order": 16
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 18,
+    "fields": {
+      "code": "acb",
+      "name": "ACB",
+      "website": "https://www.acb.com.vn",
+      "description": "Ngân hàng TMCP Á Châu",
+      "is_active": true,
+      "order": 17
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 19,
+    "fields": {
+      "code": "bidv",
+      "name": "BIDV",
+      "website": "https://www.bidv.com.vn",
+      "description": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam",
+      "is_active": true,
+      "order": 18
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 20,
+    "fields": {
+      "code": "vib",
+      "name": "VIB",
+      "website": "https://www.vib.com.vn",
+      "description": "Ngân hàng TMCP Quốc tế Việt Nam",
+      "is_active": true,
+      "order": 19
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 21,
+    "fields": {
+      "code": "tpbank",
+      "name": "TPBank",
+      "website": "https://tpb.vn",
+      "description": "Ngân hàng TMCP Tiên Phong",
+      "is_active": true,
+      "order": 20
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 22,
+    "fields": {
+      "code": "nab",
+      "name": "NAB Innovation Centre Vietnam",
+      "website": "https://www.nab.com.au",
+      "description": "Trung tâm đổi mới sáng tạo của NAB Australia",
+      "is_active": true,
+      "order": 21
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 23,
+    "fields": {
+      "code": "samsung_vn",
+      "name": "Samsung Vietnam",
+      "website": "https://www.samsung.com/vn",
+      "description": "Samsung Electronics Vietnam",
+      "is_active": true,
+      "order": 22
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 24,
+    "fields": {
+      "code": "bosch_vn",
+      "name": "Bosch Vietnam",
+      "website": "https://www.bosch.com.vn",
+      "description": "Robert Bosch Engineering Vietnam",
+      "is_active": true,
+      "order": 23
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 25,
+    "fields": {
+      "code": "intel_vn",
+      "name": "Intel Products Vietnam",
+      "website": "https://www.intel.vn",
+      "description": "Intel Products Vietnam",
+      "is_active": true,
+      "order": 24
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 26,
+    "fields": {
+      "code": "kms",
+      "name": "KMS Technology",
+      "website": "https://kms-technology.com",
+      "description": "Công ty phần mềm và dịch vụ công nghệ",
+      "is_active": true,
+      "order": 25
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 27,
+    "fields": {
+      "code": "nashtech",
+      "name": "NashTech",
+      "website": "https://www.nashtechglobal.com",
+      "description": "Công ty phần mềm và dịch vụ IT",
+      "is_active": true,
+      "order": 26
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 28,
+    "fields": {
+      "code": "axon",
+      "name": "Axon Active Vietnam",
+      "website": "https://www.axonactive.com",
+      "description": "Công ty phát triển phần mềm Thụy Sĩ",
+      "is_active": true,
+      "order": 27
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 29,
+    "fields": {
+      "code": "tma",
+      "name": "TMA Solutions",
+      "website": "https://www.tmasolutions.com",
+      "description": "Công ty phần mềm và giải pháp công nghệ",
+      "is_active": true,
+      "order": 28
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 30,
+    "fields": {
+      "code": "nfq",
+      "name": "NFQ Asia",
+      "website": "https://www.nfq.asia",
+      "description": "Công ty công nghệ và tư vấn",
+      "is_active": true,
+      "order": 29
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 31,
+    "fields": {
+      "code": "fossil_vn",
+      "name": "Fossil Vietnam",
+      "website": "https://www.fossil.com",
+      "description": "Fossil Group Vietnam - R&D Center",
+      "is_active": true,
+      "order": 30
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 32,
+    "fields": {
+      "code": "topdev",
+      "name": "TopDev",
+      "website": "https://topdev.vn",
+      "description": "Nền tảng tuyển dụng IT",
+      "is_active": true,
+      "order": 31
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 33,
+    "fields": {
+      "code": "topcv",
+      "name": "TopCV",
+      "website": "https://www.topcv.vn",
+      "description": "Nền tảng tuyển dụng và việc làm",
+      "is_active": true,
+      "order": 32
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 34,
+    "fields": {
+      "code": "vietnamworks",
+      "name": "VietnamWorks",
+      "website": "https://www.vietnamworks.com",
+      "description": "Nền tảng tuyển dụng hàng đầu",
+      "is_active": true,
+      "order": 33
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 35,
+    "fields": {
+      "code": "anphabe",
+      "name": "Anphabe",
+      "website": "https://www.anphabe.com",
+      "description": "Mạng cộng đồng nghề nghiệp",
+      "is_active": true,
+      "order": 34
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 36,
+    "fields": {
+      "code": "cmc",
+      "name": "CMC Corporation",
+      "website": "https://cmc.com.vn",
+      "description": "Tập đoàn Công nghệ CMC",
+      "is_active": true,
+      "order": 35
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 37,
+    "fields": {
+      "code": "misa",
+      "name": "MISA JSC",
+      "website": "https://www.misa.vn",
+      "description": "Công ty phần mềm kế toán và quản trị",
+      "is_active": true,
+      "order": 36
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 38,
+    "fields": {
+      "code": "vnpay",
+      "name": "VNPAY",
+      "website": "https://vnpay.vn",
+      "description": "Công ty cổ phần Giải pháp Thanh toán Việt Nam",
+      "is_active": true,
+      "order": 37
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 39,
+    "fields": {
+      "code": "sendo",
+      "name": "Sendo",
+      "website": "https://www.sendo.vn",
+      "description": "Sàn thương mại điện tử",
+      "is_active": true,
+      "order": 38
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 40,
+    "fields": {
+      "code": "bkav",
+      "name": "Bkav Corporation",
+      "website": "https://www.bkav.com.vn",
+      "description": "Công ty an ninh mạng và công nghệ",
+      "is_active": true,
+      "order": 39
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 41,
+    "fields": {
+      "code": "fis",
+      "name": "FPT Information System",
+      "website": "https://www.fis.com.vn",
+      "description": "Công ty Hệ thống Thông tin FPT",
+      "is_active": true,
+      "order": 40
+    }
+  },
+  {
+    "model": "jobfinder.verifiedcompany",
+    "pk": 42,
+    "fields": {
+      "code": "other",
+      "name": "Khác",
+      "website": "",
+      "description": "Công ty khác không có trong danh sách",
+      "is_active": true,
+      "order": 41
+    }
+  },
+  {
+    "model": "jobfinder.workformat",
+    "pk": 2,
+    "fields": {
+      "code": "onsite",
+      "name": "Làm việc tại văn phòng",
+      "description": "Làm việc trực tiếp tại văn phòng công ty",
+      "is_active": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "jobfinder.workformat",
+    "pk": 3,
+    "fields": {
+      "code": "remote",
+      "name": "Làm việc từ xa",
+      "description": "Làm việc hoàn toàn từ xa, không cần đến văn phòng",
+      "is_active": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "jobfinder.workformat",
+    "pk": 4,
+    "fields": {
+      "code": "hybrid",
+      "name": "Kết hợp",
+      "description": "Kết hợp làm việc tại văn phòng và từ xa",
+      "is_active": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "jobfinder.workformat",
+    "pk": 5,
+    "fields": {
+      "code": "flexible",
+      "name": "Linh hoạt",
+      "description": "Thời gian và địa điểm làm việc linh hoạt",
+      "is_active": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "jobfinder.workformat",
+    "pk": 6,
+    "fields": {
+      "code": "other",
+      "name": "Khác",
+      "description": "Hình thức làm việc khác",
+      "is_active": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "jobfinder.jobtype",
+    "pk": 2,
+    "fields": {
+      "code": "fulltime",
+      "name": "Toàn thời gian",
+      "description": "Làm việc full-time (40 giờ/tuần)",
+      "is_active": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "jobfinder.jobtype",
+    "pk": 3,
+    "fields": {
+      "code": "parttime",
+      "name": "Bán thời gian",
+      "description": "Làm việc part-time",
+      "is_active": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "jobfinder.jobtype",
+    "pk": 4,
+    "fields": {
+      "code": "contract",
+      "name": "Hợp đồng",
+      "description": "Làm việc theo hợp đồng có thời hạn",
+      "is_active": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "jobfinder.jobtype",
+    "pk": 5,
+    "fields": {
+      "code": "freelance",
+      "name": "Freelance",
+      "description": "Làm việc tự do theo dự án",
+      "is_active": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "jobfinder.jobtype",
+    "pk": 6,
+    "fields": {
+      "code": "internship",
+      "name": "Thực tập",
+      "description": "Vị trí thực tập sinh",
+      "is_active": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "jobfinder.jobtype",
+    "pk": 7,
+    "fields": {
+      "code": "temporary",
+      "name": "Tạm thời",
+      "description": "Công việc tạm thời/theo mùa",
+      "is_active": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "jobfinder.jobtype",
+    "pk": 8,
+    "fields": {
+      "code": "volunteer",
+      "name": "Tình nguyện",
+      "description": "Công việc tình nguyện",
+      "is_active": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "jobfinder.jobtype",
+    "pk": 9,
+    "fields": {
+      "code": "other",
+      "name": "Khác",
+      "description": "Loại công việc khác",
+      "is_active": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 2,
+    "fields": {
+      "code": "VND",
+      "name": "Việt Nam Đồng",
+      "symbol": "₫",
+      "is_active": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 3,
+    "fields": {
+      "code": "USD",
+      "name": "US Dollar",
+      "symbol": "$",
+      "is_active": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 4,
+    "fields": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "is_active": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 5,
+    "fields": {
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "symbol": "¥",
+      "is_active": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 6,
+    "fields": {
+      "code": "KRW",
+      "name": "Korean Won",
+      "symbol": "₩",
+      "is_active": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 7,
+    "fields": {
+      "code": "SGD",
+      "name": "Singapore Dollar",
+      "symbol": "S$",
+      "is_active": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 8,
+    "fields": {
+      "code": "GBP",
+      "name": "British Pound",
+      "symbol": "£",
+      "is_active": true,
+      "order": 7
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 9,
+    "fields": {
+      "code": "AUD",
+      "name": "Australian Dollar",
+      "symbol": "A$",
+      "is_active": true,
+      "order": 8
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 10,
+    "fields": {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "symbol": "¥",
+      "is_active": true,
+      "order": 9
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 11,
+    "fields": {
+      "code": "THB",
+      "name": "Thai Baht",
+      "symbol": "฿",
+      "is_active": true,
+      "order": 10
+    }
+  },
+  {
+    "model": "jobfinder.currency",
+    "pk": 12,
+    "fields": {
+      "code": "other",
+      "name": "Khác",
+      "symbol": "",
+      "is_active": true,
+      "order": 11
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 1,
+    "fields": {
+      "full_name": "Thành phố trực thuộc trung ương",
+      "english_full_name": "Municipality",
+      "short_name": "Thành phố",
+      "english_short_name": "City"
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 2,
+    "fields": {
+      "full_name": "Tỉnh",
+      "english_full_name": "Province",
+      "short_name": "Tỉnh",
+      "english_short_name": "Province"
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 3,
+    "fields": {
+      "full_name": "Thành phố thuộc thành phố trực thuộc trung ương",
+      "english_full_name": "Municipal city",
+      "short_name": "Thành phố",
+      "english_short_name": "City"
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 4,
+    "fields": {
+      "full_name": "Thành phố thuộc tỉnh",
+      "english_full_name": "Provincial city",
+      "short_name": "Thành phố",
+      "english_short_name": "City"
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 5,
+    "fields": {
+      "full_name": "Quận",
+      "english_full_name": "Urban district",
+      "short_name": "Quận",
+      "english_short_name": "District"
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 6,
+    "fields": {
+      "full_name": "Thị xã",
+      "english_full_name": "District-level town",
+      "short_name": "Thị xã",
+      "english_short_name": "Town"
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 7,
+    "fields": {
+      "full_name": "Huyện",
+      "english_full_name": "District",
+      "short_name": "Huyện",
+      "english_short_name": "District"
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 8,
+    "fields": {
+      "full_name": "Phường",
+      "english_full_name": "Ward",
+      "short_name": "Phường",
+      "english_short_name": "Ward"
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 9,
+    "fields": {
+      "full_name": "Thị trấn",
+      "english_full_name": "Commune-level town",
+      "short_name": "Thị trấn",
+      "english_short_name": "Township"
+    }
+  },
+  {
+    "model": "jobfinder.administrativeunit",
+    "pk": 10,
+    "fields": {
+      "full_name": "Xã",
+      "english_full_name": "Commune",
+      "short_name": "Xã",
+      "english_short_name": "Commune"
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX41QB87SFAGB7GQ5HZW",
+    "fields": {
+      "code": "01",
+      "name": "Hà Nội",
+      "english_name": "Ha Noi",
+      "full_name": "Thành phố Hà Nội",
+      "english_full_name": "Ha Noi City",
+      "administrative_unit": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX4ZFP2A1R12QYNESV07",
+    "fields": {
+      "code": "02",
+      "name": "Hà Giang",
+      "english_name": "Ha Giang",
+      "full_name": "Tỉnh Hà Giang",
+      "english_full_name": "Ha Giang Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX59Z2CMMREJJX9MSP00",
+    "fields": {
+      "code": "04",
+      "name": "Cao Bằng",
+      "english_name": "Cao Bang",
+      "full_name": "Tỉnh Cao Bằng",
+      "english_full_name": "Cao Bang Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX5G52TVG8Q94NA2VG88",
+    "fields": {
+      "code": "06",
+      "name": "Bắc Kạn",
+      "english_name": "Bac Kan",
+      "full_name": "Tỉnh Bắc Kạn",
+      "english_full_name": "Bac Kan Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX5MGZ1CFEACCK5K96AS",
+    "fields": {
+      "code": "08",
+      "name": "Tuyên Quang",
+      "english_name": "Tuyen Quang",
+      "full_name": "Tỉnh Tuyên Quang",
+      "english_full_name": "Tuyen Quang Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX5VD995JTTBP7S6HE9H",
+    "fields": {
+      "code": "10",
+      "name": "Lào Cai",
+      "english_name": "Lao Cai",
+      "full_name": "Tỉnh Lào Cai",
+      "english_full_name": "Lao Cai Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX62QAWCGCDN390NX62G",
+    "fields": {
+      "code": "11",
+      "name": "Điện Biên",
+      "english_name": "Dien Bien",
+      "full_name": "Tỉnh Điện Biên",
+      "english_full_name": "Dien Bien Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX674B1GP97WA0Q8J2T0",
+    "fields": {
+      "code": "12",
+      "name": "Lai Châu",
+      "english_name": "Lai Chau",
+      "full_name": "Tỉnh Lai Châu",
+      "english_full_name": "Lai Chau Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX6DKDB1DCNTBT0VAJ5K",
+    "fields": {
+      "code": "14",
+      "name": "Sơn La",
+      "english_name": "Son La",
+      "full_name": "Tỉnh Sơn La",
+      "english_full_name": "Son La Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX6NS94DSKNMSAJGBAMV",
+    "fields": {
+      "code": "15",
+      "name": "Yên Bái",
+      "english_name": "Yen Bai",
+      "full_name": "Tỉnh Yên Bái",
+      "english_full_name": "Yen Bai Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX6Z1K4TQW614JWB2JG9",
+    "fields": {
+      "code": "17",
+      "name": "Hoà Bình",
+      "english_name": "Hoa Binh",
+      "full_name": "Tỉnh Hoà Bình",
+      "english_full_name": "Hoa Binh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX74Z6WXP9P9EV0H2CCE",
+    "fields": {
+      "code": "19",
+      "name": "Thái Nguyên",
+      "english_name": "Thai Nguyen",
+      "full_name": "Tỉnh Thái Nguyên",
+      "english_full_name": "Thai Nguyen Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX7DFSK54AB3DKHVXMZF",
+    "fields": {
+      "code": "20",
+      "name": "Lạng Sơn",
+      "english_name": "Lang Son",
+      "full_name": "Tỉnh Lạng Sơn",
+      "english_full_name": "Lang Son Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX7MJ9XWPG29FZGTBTR1",
+    "fields": {
+      "code": "22",
+      "name": "Quảng Ninh",
+      "english_name": "Quang Ninh",
+      "full_name": "Tỉnh Quảng Ninh",
+      "english_full_name": "Quang Ninh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX7WV78MEJZQT4BM13EN",
+    "fields": {
+      "code": "24",
+      "name": "Bắc Giang",
+      "english_name": "Bac Giang",
+      "full_name": "Tỉnh Bắc Giang",
+      "english_full_name": "Bac Giang Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX84PF0VY2SW5R4DA2M1",
+    "fields": {
+      "code": "25",
+      "name": "Phú Thọ",
+      "english_name": "Phu Tho",
+      "full_name": "Tỉnh Phú Thọ",
+      "english_full_name": "Phu Tho Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX8ETQ48803J3EAN6J1N",
+    "fields": {
+      "code": "26",
+      "name": "Vĩnh Phúc",
+      "english_name": "Vinh Phuc",
+      "full_name": "Tỉnh Vĩnh Phúc",
+      "english_full_name": "Vinh Phuc Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX8KMNXQ2SG1VRH1VFR5",
+    "fields": {
+      "code": "27",
+      "name": "Bắc Ninh",
+      "english_name": "Bac Ninh",
+      "full_name": "Tỉnh Bắc Ninh",
+      "english_full_name": "Bac Ninh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX8RVR3TN1SNDMFXMV7M",
+    "fields": {
+      "code": "30",
+      "name": "Hải Dương",
+      "english_name": "Hai Duong",
+      "full_name": "Tỉnh Hải Dương",
+      "english_full_name": "Hai Duong Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX93GEMVF14BSKM72WZJ",
+    "fields": {
+      "code": "31",
+      "name": "Hải Phòng",
+      "english_name": "Hai Phong",
+      "full_name": "Thành phố Hải Phòng",
+      "english_full_name": "Hai Phong City",
+      "administrative_unit": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX9AV1XS7KRMFN40K40W",
+    "fields": {
+      "code": "33",
+      "name": "Hưng Yên",
+      "english_name": "Hung Yen",
+      "full_name": "Tỉnh Hưng Yên",
+      "english_full_name": "Hung Yen Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX9JJ2ZJPQ3KSEYS3J0B",
+    "fields": {
+      "code": "34",
+      "name": "Thái Bình",
+      "english_name": "Thai Binh",
+      "full_name": "Tỉnh Thái Bình",
+      "english_full_name": "Thai Binh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZX9W1WKNZPX1WJ42GEGM",
+    "fields": {
+      "code": "35",
+      "name": "Hà Nam",
+      "english_name": "Ha Nam",
+      "full_name": "Tỉnh Hà Nam",
+      "english_full_name": "Ha Nam Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXA2WN9FAFRYJRK3C6CW",
+    "fields": {
+      "code": "36",
+      "name": "Nam Định",
+      "english_name": "Nam Dinh",
+      "full_name": "Tỉnh Nam Định",
+      "english_full_name": "Nam Dinh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXAAJX2X0E8B7Q2TF0QN",
+    "fields": {
+      "code": "37",
+      "name": "Ninh Bình",
+      "english_name": "Ninh Binh",
+      "full_name": "Tỉnh Ninh Bình",
+      "english_full_name": "Ninh Binh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXAG72D7QHAY16DQYXAH",
+    "fields": {
+      "code": "38",
+      "name": "Thanh Hóa",
+      "english_name": "Thanh Hoa",
+      "full_name": "Tỉnh Thanh Hóa",
+      "english_full_name": "Thanh Hoa Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXB8RXK4AAVKAXMFW3HM",
+    "fields": {
+      "code": "40",
+      "name": "Nghệ An",
+      "english_name": "Nghe An",
+      "full_name": "Tỉnh Nghệ An",
+      "english_full_name": "Nghe An Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXBTG7X5RK2FMX8RJ4M7",
+    "fields": {
+      "code": "42",
+      "name": "Hà Tĩnh",
+      "english_name": "Ha Tinh",
+      "full_name": "Tỉnh Hà Tĩnh",
+      "english_full_name": "Ha Tinh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXC5XMB5VMBRSK9JKHS6",
+    "fields": {
+      "code": "44",
+      "name": "Quảng Bình",
+      "english_name": "Quang Binh",
+      "full_name": "Tỉnh Quảng Bình",
+      "english_full_name": "Quang Binh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXCAW9VJ3VWW1VGP3EZX",
+    "fields": {
+      "code": "45",
+      "name": "Quảng Trị",
+      "english_name": "Quang Tri",
+      "full_name": "Tỉnh Quảng Trị",
+      "english_full_name": "Quang Tri Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXCF3R51R8P5ZMV2QHSD",
+    "fields": {
+      "code": "46",
+      "name": "Huế",
+      "english_name": "Hue",
+      "full_name": "Thành phố Huế",
+      "english_full_name": "Hue City",
+      "administrative_unit": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXCP1A34QKTK222PV4YM",
+    "fields": {
+      "code": "48",
+      "name": "Đà Nẵng",
+      "english_name": "Da Nang",
+      "full_name": "Thành phố Đà Nẵng",
+      "english_full_name": "Da Nang City",
+      "administrative_unit": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXCQZTR9JXZ5D5PTNR98",
+    "fields": {
+      "code": "49",
+      "name": "Quảng Nam",
+      "english_name": "Quang Nam",
+      "full_name": "Tỉnh Quảng Nam",
+      "english_full_name": "Quang Nam Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXD08GADYEG6H25E0WAM",
+    "fields": {
+      "code": "51",
+      "name": "Quảng Ngãi",
+      "english_name": "Quang Ngai",
+      "full_name": "Tỉnh Quảng Ngãi",
+      "english_full_name": "Quang Ngai Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXDCYQC28ERKTTFWJQHQ",
+    "fields": {
+      "code": "52",
+      "name": "Bình Định",
+      "english_name": "Binh Dinh",
+      "full_name": "Tỉnh Bình Định",
+      "english_full_name": "Binh Dinh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXDNE1Q5QZEWAXAHTAN3",
+    "fields": {
+      "code": "54",
+      "name": "Phú Yên",
+      "english_name": "Phu Yen",
+      "full_name": "Tỉnh Phú Yên",
+      "english_full_name": "Phu Yen Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXDSYE0MZ9X2QAYR3Y99",
+    "fields": {
+      "code": "56",
+      "name": "Khánh Hòa",
+      "english_name": "Khanh Hoa",
+      "full_name": "Tỉnh Khánh Hòa",
+      "english_full_name": "Khanh Hoa Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXDX9ZWA08XMN1R7V33W",
+    "fields": {
+      "code": "58",
+      "name": "Ninh Thuận",
+      "english_name": "Ninh Thuan",
+      "full_name": "Tỉnh Ninh Thuận",
+      "english_full_name": "Ninh Thuan Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXE0B6GXYJWBPPMGYNVD",
+    "fields": {
+      "code": "60",
+      "name": "Bình Thuận",
+      "english_name": "Binh Thuan",
+      "full_name": "Tỉnh Bình Thuận",
+      "english_full_name": "Binh Thuan Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXE61PSHEMPE7XJ8J9CZ",
+    "fields": {
+      "code": "62",
+      "name": "Kon Tum",
+      "english_name": "Kon Tum",
+      "full_name": "Tỉnh Kon Tum",
+      "english_full_name": "Kon Tum Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXEA7CNA0Y7EHB43JZFY",
+    "fields": {
+      "code": "64",
+      "name": "Gia Lai",
+      "english_name": "Gia Lai",
+      "full_name": "Tỉnh Gia Lai",
+      "english_full_name": "Gia Lai Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXEJPK0VKF8TT9R3E5W0",
+    "fields": {
+      "code": "66",
+      "name": "Đắk Lắk",
+      "english_name": "Dak Lak",
+      "full_name": "Tỉnh Đắk Lắk",
+      "english_full_name": "Dak Lak Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXEV171TMRM9QP250PKF",
+    "fields": {
+      "code": "67",
+      "name": "Đắk Nông",
+      "english_name": "Dak Nong",
+      "full_name": "Tỉnh Đắk Nông",
+      "english_full_name": "Dak Nong Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXEYP6NRGPYT78W03RYB",
+    "fields": {
+      "code": "68",
+      "name": "Lâm Đồng",
+      "english_name": "Lam Dong",
+      "full_name": "Tỉnh Lâm Đồng",
+      "english_full_name": "Lam Dong Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXF38XJE9W6VXXJMTAG5",
+    "fields": {
+      "code": "70",
+      "name": "Bình Phước",
+      "english_name": "Binh Phuoc",
+      "full_name": "Tỉnh Bình Phước",
+      "english_full_name": "Binh Phuoc Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXFA4P9JAD26VR7H6RDJ",
+    "fields": {
+      "code": "72",
+      "name": "Tây Ninh",
+      "english_name": "Tay Ninh",
+      "full_name": "Tỉnh Tây Ninh",
+      "english_full_name": "Tay Ninh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXFEPT4DZR38X8V9JCPP",
+    "fields": {
+      "code": "74",
+      "name": "Bình Dương",
+      "english_name": "Binh Duong",
+      "full_name": "Tỉnh Bình Dương",
+      "english_full_name": "Binh Duong Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXFJ321HY55M3ASZZSJ3",
+    "fields": {
+      "code": "75",
+      "name": "Đồng Nai",
+      "english_name": "Dong Nai",
+      "full_name": "Tỉnh Đồng Nai",
+      "english_full_name": "Dong Nai Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXFSJ9298MZMJ4E0C76G",
+    "fields": {
+      "code": "77",
+      "name": "Bà Rịa - Vũng Tàu",
+      "english_name": "Ba Ria - Vung Tau",
+      "full_name": "Tỉnh Bà Rịa - Vũng Tàu",
+      "english_full_name": "Ba Ria - Vung Tau Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXFWB1VVACM99M3XC076",
+    "fields": {
+      "code": "79",
+      "name": "Hồ Chí Minh",
+      "english_name": "Ho Chi Minh",
+      "full_name": "Thành phố Hồ Chí Minh",
+      "english_full_name": "Ho Chi Minh City",
+      "administrative_unit": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXG807GF2CKX822Z27FA",
+    "fields": {
+      "code": "80",
+      "name": "Long An",
+      "english_name": "Long An",
+      "full_name": "Tỉnh Long An",
+      "english_full_name": "Long An Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXGGAGWDVWD74G2G8R5F",
+    "fields": {
+      "code": "82",
+      "name": "Tiền Giang",
+      "english_name": "Tien Giang",
+      "full_name": "Tỉnh Tiền Giang",
+      "english_full_name": "Tien Giang Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXGQTARBX1WVHETADRN9",
+    "fields": {
+      "code": "83",
+      "name": "Bến Tre",
+      "english_name": "Ben Tre",
+      "full_name": "Tỉnh Bến Tre",
+      "english_full_name": "Ben Tre Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXGYJ9T0S7B0HD0R8H0P",
+    "fields": {
+      "code": "84",
+      "name": "Trà Vinh",
+      "english_name": "Tra Vinh",
+      "full_name": "Tỉnh Trà Vinh",
+      "english_full_name": "Tra Vinh Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXH20664FXM5JN66PMHT",
+    "fields": {
+      "code": "86",
+      "name": "Vĩnh Long",
+      "english_name": "Vinh Long",
+      "full_name": "Tỉnh Vĩnh Long",
+      "english_full_name": "Vinh Long Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXHGNNN36K4ZQC6JC0X4",
+    "fields": {
+      "code": "87",
+      "name": "Đồng Tháp",
+      "english_name": "Dong Thap",
+      "full_name": "Tỉnh Đồng Tháp",
+      "english_full_name": "Dong Thap Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXHN354QP5N9FA5D7524",
+    "fields": {
+      "code": "89",
+      "name": "An Giang",
+      "english_name": "An Giang",
+      "full_name": "Tỉnh An Giang",
+      "english_full_name": "An Giang Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXHXXRXCHPBZNGYS3XVK",
+    "fields": {
+      "code": "91",
+      "name": "Kiên Giang",
+      "english_name": "Kien Giang",
+      "full_name": "Tỉnh Kiên Giang",
+      "english_full_name": "Kien Giang Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXJ2AVT3JKW5CK6DZADN",
+    "fields": {
+      "code": "92",
+      "name": "Cần Thơ",
+      "english_name": "Can Tho",
+      "full_name": "Thành phố Cần Thơ",
+      "english_full_name": "Can Tho City",
+      "administrative_unit": 1,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXJ5T318AGQGGSXZCNPT",
+    "fields": {
+      "code": "93",
+      "name": "Hậu Giang",
+      "english_name": "Hau Giang",
+      "full_name": "Tỉnh Hậu Giang",
+      "english_full_name": "Hau Giang Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXJAGNM11SX0JCTGXNJV",
+    "fields": {
+      "code": "94",
+      "name": "Sóc Trăng",
+      "english_name": "Soc Trang",
+      "full_name": "Tỉnh Sóc Trăng",
+      "english_full_name": "Soc Trang Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXJFMY3CV3EKE35NRKFM",
+    "fields": {
+      "code": "95",
+      "name": "Bạc Liêu",
+      "english_name": "Bac Lieu",
+      "full_name": "Tỉnh Bạc Liêu",
+      "english_full_name": "Bac Lieu Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  },
+  {
+    "model": "jobfinder.province",
+    "pk": "01JKAPZXJHZ3GQCACZECGEHSCQ",
+    "fields": {
+      "code": "96",
+      "name": "Cà Mau",
+      "english_name": "Ca Mau",
+      "full_name": "Tỉnh Cà Mau",
+      "english_full_name": "Ca Mau Province",
+      "administrative_unit": 2,
+      "is_active": true
+    }
+  }
+]

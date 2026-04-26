@@ -1,0 +1,132 @@
+[
+  {
+    "model": "users.role",
+    "pk": 1,
+    "fields": {
+      "code": "USER",
+      "name": "Người dùng",
+      "description": "",
+      "is_active": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "users.role",
+    "pk": 2,
+    "fields": {
+      "code": "ADMIN",
+      "name": "Quản trị viên",
+      "description": "",
+      "is_active": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "users.status",
+    "pk": 1,
+    "fields": {
+      "code": "ACTIVE",
+      "name": "Hoạt động",
+      "description": "Tài khoản đang hoạt động.",
+      "icon": "CheckCircle",
+      "color": "bg-green-100 text-green-800",
+      "is_active": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "users.status",
+    "pk": 2,
+    "fields": {
+      "code": "INACTIVE",
+      "name": "Không hoạt động",
+      "description": "Tài khoản không hoạt động.",
+      "icon": "ShieldX",
+      "color": "bg-gray-100 text-gray-800",
+      "is_active": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "users.status",
+    "pk": 3,
+    "fields": {
+      "code": "PENDING_VERIFICATION",
+      "name": "Chờ xác minh",
+      "description": "Tài khoản chưa được xác minh.",
+      "icon": "Clock",
+      "color": "bg-yellow-100 text-yellow-800",
+      "is_active": true,
+      "order": 3
+    }
+  },
+  {
+    "model": "users.status",
+    "pk": 4,
+    "fields": {
+      "code": "LOCKED",
+      "name": "Đã khoá",
+      "description": "Tài khoản đang khoá.",
+      "icon": "Lock",
+      "color": "bg-orange-100 text-orange-800",
+      "is_active": true,
+      "order": 4
+    }
+  },
+  {
+    "model": "users.status",
+    "pk": 5,
+    "fields": {
+      "code": "SUSPENDED",
+      "name": "Tạm ngưng",
+      "description": "Tạm thời bị vô hiệu hoá.",
+      "icon": "AlertCircle",
+      "color": "bg-red-100 text-red-800",
+      "is_active": true,
+      "order": 5
+    }
+  },
+  {
+    "model": "users.status",
+    "pk": 6,
+    "fields": {
+      "code": "BANNED",
+      "name": "Cấm vĩnh viễn",
+      "description": "Bị cấm vĩnh viễn.",
+      "icon": "Ban",
+      "color": "bg-red-200 text-red-900",
+      "is_active": true,
+      "order": 6
+    }
+  },
+  {
+    "model": "users.gender",
+    "pk": 3,
+    "fields": {
+      "code": "MALE",
+      "name": "Nam",
+      "is_active": true,
+      "order": 1
+    }
+  },
+  {
+    "model": "users.gender",
+    "pk": 4,
+    "fields": {
+      "code": "FEMALE",
+      "name": "Nữ",
+      "is_active": true,
+      "order": 2
+    }
+  },
+  {
+    "model": "users.gender",
+    "pk": 5,
+    "fields": {
+      "code": "OTHER",
+      "name": "Khác",
+      "is_active": true,
+      "order": 3
+    }
+  }
+]

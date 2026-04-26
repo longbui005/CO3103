@@ -1,0 +1,16 @@
+[Unit]
+Description=JobFinder Django Backend (Gunicorn)
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=www-data
+WorkingDirectory=/opt/jobfinder/backend
+EnvironmentFile=/etc/jobfinder/backend.env
+ExecStart=/opt/jobfinder/backend/.venv/bin/gunicorn main.wsgi:application --bind 127.0.0.1:8000 --workers 3 --timeout 120
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
